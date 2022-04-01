@@ -1,0 +1,4 @@
+1. registered user bonus under limit, 100060, true, 30
+2. registered user bonus over limit, 100000060, true, 500
+3. unregistered user bonus under limit, 100060, false, 10
+4. unregistered user bonus over limit', 100000060, false, 500
